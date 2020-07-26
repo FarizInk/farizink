@@ -3,14 +3,10 @@
 <p align="left">
   <br>
   <img src="https://media2.giphy.com/media/9Y1wF3wx1Dex8w9wxL/giphy.gif?cid=ecf05e470bg8gtot4nh0d7y60h5dtc4d6itwjomnwlqrsut8&rid=giphy.gif" width="300">
-  
-  <br><br>
-  Hi, it's me Nizar Alfarizi Akbar. You can call me Fariz :blush:
-  <br><br>
 </p>
 
-<div align="left">
-  <h3 align="left">Connect with me<img align="left" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3>
+Hi, it's me Nizar Alfarizi Akbar. You can call me Fariz :blush:
+### Connect With Me
   <br>
   <a href="https://www.linkedin.com/in/farizink/" target="blank">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> &nbsp; &nbsp;
@@ -24,8 +20,6 @@
  <a href="https://t.me/farizink" target="blank">
    <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
  </a>
-</div>
-
 
 ### My Stats
 ![Fariz Github Stats](https://github-readme-stats.vercel.app/api?username=farizink&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
