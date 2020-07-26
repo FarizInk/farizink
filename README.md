@@ -23,8 +23,8 @@
  <a href="https://medium.com/@farizink" target="blank">
   <img align="center" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://t.me/farizink">
-   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+ <a href="https://t.me/farizink" target="blank">
+   <img align="center" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
  </a>
  <br/>
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=farizink.farizink)
