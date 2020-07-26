@@ -26,14 +26,13 @@
  <a href="https://t.me/farizink" target="blank">
    <img align="center" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
  </a>
- <br/>
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=farizink.farizink)
- <br/>
- <br/>
 </p>
 
 ### My Stats
 ![Fariz Github Stats](https://github-readme-stats.vercel.app/api?username=farizink&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=farizink.farizink)
 
 <!--
 **FarizInk/farizink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
