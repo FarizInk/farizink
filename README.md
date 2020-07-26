@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
+<p align="right">
   <br>
   <img src="https://media2.giphy.com/media/9Y1wF3wx1Dex8w9wxL/giphy.gif?cid=ecf05e470bg8gtot4nh0d7y60h5dtc4d6itwjomnwlqrsut8&rid=giphy.gif" width="300">
   
@@ -9,12 +9,10 @@
   <br><br>
 </p>
 
-<div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
-</div>
-
-<p align="center">
- <a href="https://www.linkedin.com/in/farizink/" target="blank">
+<div align="left">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3>
+  <br>
+  <a href="https://www.linkedin.com/in/farizink/" target="blank">
   <img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://www.instagram.com/farizink/" target="blank">
@@ -26,7 +24,8 @@
  <a href="https://t.me/farizink" target="blank">
    <img align="center" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
  </a>
-</p>
+</div>
+
 
 ### My Stats
 ![Fariz Github Stats](https://github-readme-stats.vercel.app/api?username=farizink&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
