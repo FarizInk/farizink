@@ -4,7 +4,6 @@
 </p>
 
 <img align="right" src="https://media2.giphy.com/media/9Y1wF3wx1Dex8w9wxL/giphy.gif?cid=ecf05e470bg8gtot4nh0d7y60h5dtc4d6itwjomnwlqrsut8&rid=giphy.gif" width="300"/>
-<br>
 
 ### Connect With Me
 - Facebook: <a href="https://www.facebook.com/farizink/" target="balnk">https://www.facebook.com/farizink/</a>
