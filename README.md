@@ -17,6 +17,8 @@
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=farizink.farizink)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farizink&hide_border=true&layout=compact&hide=html)
+- For more complete statistics, <a href="https://sourcerer.io/farizink">please see here</a>
 
 <!--
 **FarizInk/farizink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
